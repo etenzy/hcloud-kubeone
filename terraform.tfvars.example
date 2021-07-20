@@ -1,0 +1,5 @@
+cluster_name = "motoko"
+
+control_plane_replicas = 1
+
+workers_replicas = 2
