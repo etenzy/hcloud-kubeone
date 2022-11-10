@@ -38,3 +38,8 @@ terraform.rc
 *.conf
 
 tf.json
+kubeone.yaml
+credentials.yaml
+sops-gpg.yaml
+*-kubeconfig
+*.tar.gz
